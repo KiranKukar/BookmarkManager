@@ -4,18 +4,19 @@
       "/Users/kirankukar/Projects/BookmarkManager/spec/bookmarks_spec.rb": {
         "lines": [
           1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
           null,
           1,
           1,
           1,
           1,
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          null,
           1,
           1,
           null,
@@ -23,12 +24,16 @@
           null,
           1,
           2,
+          2,
           null,
+          1,
+          null,
+          1,
+          null,
+          1,
           null,
           1,
           1,
-          null,
-          null,
           1,
           1,
           null,
@@ -38,12 +43,24 @@
           null
         ]
       },
+      "/Users/kirankukar/Projects/BookmarkManager/spec/database_helpers.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/kirankukar/Projects/BookmarkManager/spec/features/adding_bookmarks_spec.rb": {
         "lines": [
           1,
           1,
           1,
           null,
+          1,
           1,
           1,
           null,
@@ -62,14 +79,13 @@
           null,
           null,
           1,
-          1,
-          null,
           null,
           1,
           1,
           null,
           null,
           1,
+          null,
           1,
           1,
           null,
@@ -77,6 +93,6 @@
         ]
       }
     },
-    "timestamp": 1642084800
+    "timestamp": 1642096705
   }
 }
